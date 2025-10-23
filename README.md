@@ -1,10 +1,10 @@
 ### Car-Damage-Detection
 # Classes
-Broken-Glass
-Broken-hood
-Broken-light
-Dent
-Scratch
+Broken-Glass,
+Broken-hood,
+Broken-light,
+Dent,
+Scratch,
 Undamaged
 # Imaage
 Total:370
